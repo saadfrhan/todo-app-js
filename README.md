@@ -1,6 +1,6 @@
-# Todo App using vanilla TypeScript
+# Todo App using vanilla JavaScript
 
-This is a simple Todo App using vanilla TypeScript. It is a simple app that allows you to add, delete, mark as done and sync your todos with the local storage.
+This is a simple Todo App using vanilla JavaScript. It is a simple app that allows you to add, delete, mark as done and sync your todos with the local storage.
 
 <img src="./preview.png" />
 
