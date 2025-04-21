@@ -1,12 +1,24 @@
-# Todo App using vanilla JavaScript
+# Todo App
 
-This is a Todo App using vanilla JavaScript. It allows you to add, delete, mark as done and sync your todos with the local storage.
+A simple, modular Todo application built with TypeScript, HTML and CSS. Designed with clean separation of concerns using services, views, and handlers.
+
+### Features
+
+- Add, toggle, delete, and edit todos
+- Data persisted in `localStorage`
+- Modular code structure for better scalability
+
+### Tech Stack
+
+- TypeScript
+- HTML/CSS
+- Vite
 
 <img src="./preview.png" />
 
 ## How to run
 
-```
+```bash
 git clone https://github.com/saadfrhan/todo-app-js
 cd todo-app-js
 pnpm i
